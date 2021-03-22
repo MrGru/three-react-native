@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "testgl",
+    "slug": "testgl",
+    "version": "1.0.0",
+    "sdkVersion": "40.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.duan.testgl"
+    },
+    "ios": {
+      "bundleIdentifier": "com.duan.testgl"
+    }
+  }
+}
